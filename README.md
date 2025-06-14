@@ -18,7 +18,7 @@ To develop a comprehensive Power BI dashboard that:
 - Interactive slicers for week, region, and card type
 - Clean, modern UI for easy navigation
 - Key KPIs like:
-- - Total Transactions
-- - Approval Rate
-- - Rejected Transactions
-- - Weekly Trends
+  - Total Transactions
+  - Approval Rate
+  - Rejected Transactions
+  - Weekly Trends
