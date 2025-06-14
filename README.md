@@ -24,5 +24,5 @@ To develop a comprehensive Power BI dashboard that:
   - Weekly Trends
 
 ## 📸 Sample Screenshots
-![Final Dashboard](https://github.com/raghav-datas/Credit-Card-Weekly-Dashboard-Power-BI/blob/main/Screenshot%202025-06-14%20153938.png)
-![Final Dashboard](https://github.com/raghav-datas/Credit-Card-Weekly-Dashboard-Power-BI/blob/main/3.0%20Credit%20card%20Customer%20Report.pdf)
+![Final Dashboard](https://github.com/raghav-datas/Credit-Card-Weekly-Dashboard-Power-BI/blob/main/2.0%20Credit%20Card%20Transaction%20Report.png)
+![Final Dashboard](https://github.com/raghav-datas/Credit-Card-Weekly-Dashboard-Power-BI/blob/main/3.0%20Credit%20Card%20Transaction%20Report.png)
